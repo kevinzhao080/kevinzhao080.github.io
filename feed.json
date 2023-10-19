@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "梦见电子羊's Blog",
+    "description": "The Blog which include my lift and study",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2023/10/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/",
+            "url": "http://example.com/2023/10/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/",
+            "title": "测试文章",
+            "date_published": "2023-10-14T19:13:35.000Z",
+            "content_html": "<p>这是一篇测试文章，第一次使用 hexo 做博客，不太会用搞了一晚上，初步的掌握了使用的方法，还差了解如何部署到服务器，前面遇到的小问题都来自于阅读文本的不认真，感觉第一个主题用<a href=\"https://github.com/fluid-dev/hexo-theme-fluid\" title=\"fluid\"> fluid</a> 挺好的教程详细。便于以后使用更多的其他的主题。<br>\n<img src=\"/images/photo1.jpg\" alt=\"这是图片\"></p>\n",
+            "tags": []
+        }
+    ]
+}
