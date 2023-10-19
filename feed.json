@@ -3,5 +3,14 @@
     "title": "梦见电子羊's Blog",
     "description": "The Blog which include my lift and study",
     "home_page_url": "http://example.com",
-    "items": []
+    "items": [
+        {
+            "id": "http://example.com/2023/10/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/",
+            "url": "http://example.com/2023/10/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/",
+            "title": "测试文章",
+            "date_published": "2023-10-19T10:11:48.000Z",
+            "content_html": "",
+            "tags": []
+        }
+    ]
 }
