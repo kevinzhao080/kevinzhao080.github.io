@@ -3,14 +3,5 @@
     <id>http://example.com</id>
     <title>梦见电子羊&#39;s Blog</title>
     <link href="http://example.com" />
-    <updated>2023-10-14T19:13:35.000Z</updated>
-    <entry>
-        <id>http://example.com/2023/10/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</id>
-        <title>测试文章</title>
-        <link rel="alternate" href="http://example.com/2023/10/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-        <content type="html">&lt;p&gt;这是一篇测试文章，第一次使用 hexo 做博客，不太会用搞了一晚上，初步的掌握了使用的方法，还差了解如何部署到服务器，前面遇到的小问题都来自于阅读文本的不认真，感觉第一个主题用&lt;a href=&#34;https://github.com/fluid-dev/hexo-theme-fluid&#34; title=&#34;fluid&#34;&gt; fluid&lt;/a&gt; 挺好的教程详细。便于以后使用更多的其他的主题。&lt;br&gt;
-&lt;img src=&#34;/images/photo1.jpg&#34; alt=&#34;这是图片&#34;&gt;&lt;/p&gt;
-</content>
-        <updated>2023-10-14T19:13:35.000Z</updated>
-    </entry>
+    <updated>2023-10-19T10:07:54.654Z</updated>
 </feed>
